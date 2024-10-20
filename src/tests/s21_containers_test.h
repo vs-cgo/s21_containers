@@ -1,0 +1,6 @@
+#ifndef _S21_CONTAINERS_TESTS_S21_CONTAINERS_TEST_H_
+#define _S21_CONTAINERS_TESTS_S21_CONTAINERS_TEST_H_
+
+#include "s21_list_test.h"
+#include "s21_map_test.h"
+#endif  //_S21_CONTAINERS_TESTS_S21_CONTAINERS_TEST_H_
